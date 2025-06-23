@@ -12,7 +12,7 @@ public class Calculator {
     }
 
     // Method for Multiplication
-    public static double Multiplication(double a, double b) {
+    public static double multiplication(double a, double b) {
         return a * b;
     }
 
@@ -54,7 +54,7 @@ public class Calculator {
                         System.out.println("Result = " + subtraction(num1, num2));
                         break;
                     case 3:
-                        System.out.println("Result = " + Multiplication(num1, num2));
+                        System.out.println("Result = " + multiplication(num1, num2));
                         break;
                     case 4:
                         System.out.println("Result = " + division(num1, num2));
