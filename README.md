@@ -1,6 +1,7 @@
 # java-console-calculator
 A basic console-based calculator built in Java using methods, Scanner input, and loops.
 <br>
+Author - Shambhu Gouda
 #  Java Console Calculator <br>
 
 A simple console-based calculator built in Java. It performs basic arithmetic operations using methods and user input from the terminal. <br>
