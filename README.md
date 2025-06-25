@@ -41,7 +41,7 @@ Loops for repeated calculations
 Error handling for divide-by-zero
 
 <br>
-# Learning Outcomes
+## Learning Outcomes
 Writing and using methods in Java
 
 Practicing loops and conditionals
